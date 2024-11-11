@@ -90,4 +90,6 @@ Illustration taken from this paper https://journals.biologists.com/jeb/article/2
 * The **three arrows** in the center define the insect's **internal 3D coordinate system**.
 * Each wing features **two arrows** representing the **chord and span** (x and y axes) of the wing's coordinate system.
 
-<a href="https://amitaiovadia.github.io/AmitaiOvadia/movie_html.html" target="_blank">Open Movie HTML</a>
+<a href="https://amitaiovadia.github.io/AmitaiOvadia/movie_html.html" target="_blank">Open static movie Movie HTML</a>
+
+<a href="https://amitaiovadia.github.io/amitaiovadia.github.io/3d_analysis_with_slider.html" target="_blank">Open dynamic Movie HTML</a>
